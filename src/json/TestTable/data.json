@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "word": "Versão",
+        "description": "Consiste em identificar, através do software fornecido pelo cliente, se a versão do equipamento corresponde a versão que consta na documentação.'" 
+    },
+    {
+        "id": 2,
+        "word": "Hash",
+        "description":"É um método matemático que transforma qualquer bloco de dados em uma série de caracteres de comprimento fixo (ex: SHA256, SHA1...)." 
+    },
+    {
+        "id":3 ,
+        "word": "Integridade",
+        "description": 	"Identificar se o arquivo binário, enviado pelo cliente, corresponde com arquivo carregado no equipamento, procedimento feito através da leitura de hash." 
+    },
+    {
+        "id":4,
+        "word": "Exatidão de algoritimos e funções de medição",
+        "description": 	"Realizar a medição do equipamento na bancada (ensaio feito no laboratório de medidores)" 
+    },
+    {
+        "id":5 ,
+        "word": "Influência de interface da entrada de dados",
+        "description": 	"Durante a medição do equipamento em bancada, enviamos dados aleatórios em curtos intervalos de tempo (ataque 'buffer overflow') e avaliamos a influência na medição." 
+    },
+    {
+        "id":6,
+        "word": "DLMS",
+        "description": 	"Sigla de Device Language Message Specification, é um padrão de comunicação para medidores de energia que organiza dados em objetos para troca destes entre dispositivos." 
+    },
+    {
+        "id":7,
+        "word": "COSEM",
+        "description": 	"Sigla de Companion Specification for Energy Metering, inclui uma série de especificações que definem as camadas de transporte e aplicação do protocolo DLMS." 
+    },
+    {
+        "id":8,
+        "word": "Casos de teste",
+        "description": 	"Bateria de ensaios executados pelo próprio cliente (fabricante), que devem ser replicados pelo laboratório acreditado (LABELO) para que possam ser considerados validados." 
+    },
+    {
+        "id":9,
+        "word": "Modo de fábrica",
+        "description": 	"Configuração com ampla permissão de alteração de parâmetros relevantes. Essa configuração costuma ser implementada para uso exclusivo em fábrica/pelo fabricante ou laboratório acreditado." 
+    }
+ 
+]

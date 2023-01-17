@@ -1,0 +1,25 @@
+
+{
+    "colors": [
+      {
+        "whiteFont": "#C9D1D9",
+        "blackBackground": "#0D1117",
+        "blackComponents": "#161B22",
+        "blue": "#58A6FF",
+        "purple": "5A2DC0"
+
+      }
+    ],
+    "fontSize": [
+      {
+        "fontTitleGuiaRapidoLABELO": "30px",
+        "fontTitlePage": "22px",
+        "fontText": "20px",
+        "fontTitleCards": "18px",
+        "fontTextCards": "16px",
+        "fontTitleTables": "16px"
+       
+
+      }
+    ]
+}

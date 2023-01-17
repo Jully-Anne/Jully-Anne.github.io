@@ -1,0 +1,76 @@
+[
+
+    {
+        "id":1,
+        "word":"ClickUp",
+        "description":"Plataforma em que organizamos os ensaios ativos e processos que estão em desenvolvimento. https://clickup.com/"
+    },
+
+    {
+        "id":2,
+        "word":"GitHub",
+        "description":"Plataforma onde compartilhamos os códigos que estamos desenvolvendo. https://github.com/"
+    },
+
+    {
+        "id":3,
+        "word":"VScode",
+        "description":"Editor de texto. Software que utilizamos para programar e registrar resultados de ensaios. https://code.visualstudio.com/ ."
+    },
+
+    {
+        "id":4,
+        "word":"Extensão 'VSW Essentials'",
+        "description":"Extensão no VScode que possui as principais configurações que utilizamos para programar. https://marketplace.visualstudio.com/items?itemName=Labelo.vswextentionpack ."
+    },
+
+    {
+        "id":5,
+        "word":"API",
+        "description":"API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. A sigla API refere-se ao termo em inglês 'Aplication Programming Interface' que significa em tradução para o português 'Interface de Programação de Aplicatios'."
+    },
+
+    {
+        "id":6,
+        "word":"JSON",
+        "description":"É um formato adotado para a troca de dados entre sistemas. Tipicamente um arquivo .json contém as informações organizadas em formato atributo-valor. A sigla corresponde a 'JavaScript Object Notation'. "
+    },
+    {
+        "id":7,
+        "word":"HTML",
+        "description":"Linguagem de marcação usada na construção de páginas Web. Os navegadores interpretam documentos HTML. Em nossos relatórios, muitas tags HTML são úteis quando combinados com Markdown."
+    },
+    {
+        "id":8,
+        "word":"CSS",
+        "description":"Mecanismo para estilizar um documento. Foi usado em diversos projetos de VSW, inclusive esse guia!"
+    },
+    {
+        "id":9,
+        "word":"JavaScript",
+        "description":"Linguagem de programação interpretada estruturada, utilizada principalmente na implementação de rotinas em páginas Web. Em VSW, foi utilizada em projetos de desenvolvimento tanto de aplicativos quanto de ferramentas de comunicação."
+    },
+    {
+        "id":10,
+        "word":"Python",
+        "description":"Linguagem de programação útil para implementar automações, ferramentas de comunicação, tratar dados e fazer análises estatísticas. Sua principal vantagem é a vasta quantidade de bibliotecas disponíveis que já abreviam muitas tarefas."
+    },
+    {
+        "id":11,
+        "word":"Cliente-servidor",
+        "description":"Arquitetura que estrutura o sistema como um conjunto de processos cooperativos (servidores) que oferecem serviços aos processos de usuário (cliente). Em VSW, foi desenvolvido um servidor à parte para análise de código-fonte."
+    },
+    {
+        "id":12 ,
+        "word":"Raspberry Pi",
+        "description":"Mini-computador com componentes integrados, capaz de executar várias funções. Em VSW, uma Rasp Pi 4 foi utilizada para implementação de automatizações de ensaios, já que é bem mais portátil que um notebook."
+    },
+    {
+        "id":13,
+        "word":"Arduino",
+        "description":"Placa projetada com microcontrolador, útil para implementação de rotinas e automatizações. Essencialmente é programada com C/C++ e em VSW foi utilziada em projetos de automatização."
+    }
+    
+   
+
+]

@@ -1,0 +1,33 @@
+[
+
+    {
+        "id":1,
+        "word":"ABNT NBR 1452",
+        "description":"Norma que regulamenta a comunicação com medidores de energia. É referência para montar frames de envio (comandos) e resposta esperada em comunicação ABNT.')"
+    },
+    
+    {
+        "id":2,
+        "word":"ABNT NBR 16968:2022",
+        "description":"Norma que padroniza a comunicação entre medidores de energia baseada no protocolo DLMS."
+    },
+    
+    {
+        "id":3,
+        "word":"Portaria INMETRO 221/2022 (antiga 586)",
+        "description":"Aprova o regulamento técnico metrológico de software para medidores de energia elétrica. Este documento norteia nossa avaliação de conformidade. http://www.inmetro.gov.br/legislacao/rtac/pdf/RTAC001928.pdf"
+    },
+    
+    {
+        "id":4,
+        "word":"Portaria INMETRO 544/2014",
+        "description":"Aprova o regulamento técnico metrológico de software para medidores de velocidade. No anexo A estão os requisitos de software para que o instrumento possa ser considerado conforme. http://www.inmetro.gov.br/legislacao/rtac/pdf/RTAC002192.pdf"
+    },
+    
+    {
+        "id":5,
+        "word":"APINIT-Sinst-020",
+        "description":"Protocolo de comunicação serial para verificação de Integridade de Software em Instrumentos de Medição."
+    }
+
+]

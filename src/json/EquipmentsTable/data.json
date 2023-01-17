@@ -1,0 +1,27 @@
+[
+
+    {
+        "id":1,
+        "word":"RS-232",
+        "description":"Padrão de transmissão de dados seriais. Cabo cujos pinos normalmente utilizados pelo laboratório são: pino 2 (Recebimento de dados), pino 3 (Envio de dados) e pino 5 (GND). "
+    },
+    
+    {
+        "id":2,
+        "word":"RS-485",
+        "description":"Padrão de transmissão de dados seriais. Cabo cujos pinos normalmente utilizados pelo laboratório são: A (nível alto de tensão, ou, em lógica booleana, 1), B (nível baixo de tensão, ou em lógica booleana, 0)."
+    },
+    
+    {
+        "id":3,
+        "word":"Leitor de Porta Óptica",
+        "description":"Cabo cuja transmissão de dados é realizada através de luz."
+    },
+    
+    {
+        "id":4,
+        "word":"Chave Allen",
+        "description":"Conjunto de chaves hexagonais em formato de L."
+    }
+
+]

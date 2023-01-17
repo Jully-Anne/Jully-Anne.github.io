@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "word": "EMC",
+        "description": "Laboratório de compatibilidade eletromagnética localizado no prédio 13." 
+    },
+    {
+        "id": 2,
+        "word": "LMDE",
+        "description": 	"Laboratório de medidores de energia elétrica localizado no prédio 30." 
+    }
+]
